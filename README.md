@@ -1,8 +1,14 @@
+<div align="center">
+  <img height="200" src="https://raw.githubusercontent.com/Irenity0/Irenity0/refs/heads/main/banner.png"  />
+</div>
+
+###
+
 <h1 align="left">Hey 👋 I am Afra</h1>
 
 ###
 
-<p align="left">I'm a highschooler (homeschooled) frontend developer from Bangladesh</p>
+<p align="left">I'm a highschooler (homeschooled) frontend developer from Bangladesh <br>Email: lilithkard77@gmail.com</p>
 
 ###
 
