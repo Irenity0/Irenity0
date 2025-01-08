@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">I'm a highschooler (homeschooled) frontend developer from Bangladesh <br>Email: lilithkard77@gmail.com</p>
+<p align="left">I'm a highschooler (homeschooled) frontend developer from Bangladesh <br>Email: afraanjumsubha@gmail.com</p>
 
 ###
 
