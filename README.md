@@ -1,39 +1,20 @@
 <div align="center">
-  <img height="400" src="https://raw.githubusercontent.com/Irenity0/Irenity0/refs/heads/main/banner-1.png"  />
+  <img width="100%" src="https://raw.githubusercontent.com/Irenity0/Irenity0/refs/heads/main/1.png"  />
+</div>
+<div align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/Irenity0/Irenity0/refs/heads/main/2.png"  />
+</div>
+<div align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/Irenity0/Irenity0/refs/heads/main/3.png"  />
 </div>
 
-###
-
-<h1 align="left">Hey 👋 I am Afra</h1>
-
-###
-
-<p align="left">I'm a highschooler (homeschooled) frontend developer from Bangladesh <br>Email: afraanjumsubha@gmail.com</p>
-
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning MERN stack<br>🎯 Goals: Learn MERN stack before 2025<br>🎲 Fun fact: night owl, coffee addict & indulged in literature</p>
-
-###
-
-<h2 align="left">I code with</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+<hr>
+<div align="center">
+  
+  [![Email](https://img.shields.io/badge/-Gmail-3d2316?style=flat&logo=gmail&logoColor=white)](mailto:afraanjumsubha@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-3d2316?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/afra-anjum-subha/)
+  [![Facebook](https://img.shields.io/badge/-Facebook-3d2316?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61582345499788)
+  [![Twitter](https://img.shields.io/badge/-Twitter-3d2316?style=flat&logo=twitter&logoColor=white)](https://x.com/AfraAnjum387893)
+  [![Discord](https://img.shields.io/badge/-Discord-3d2316?style=flat&logo=discord&logoColor=white)](#)
+  
 </div>
